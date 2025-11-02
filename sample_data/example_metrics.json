@@ -1,0 +1,52 @@
+[
+  {
+    "minute": 55,
+    "dangerous_attacks": 22,
+    "total_attacks": 35,
+    "possession.home": 62,
+    "possession.away": 38,
+    "shots.onTarget": 5,
+    "shots.total": 11,
+    "xg": 1.35
+  },
+  {
+    "minute": 56,
+    "dangerous_attacks": 24,
+    "total_attacks": 37,
+    "possession.home": 63,
+    "possession.away": 37,
+    "shots.onTarget": 5,
+    "shots.total": 12,
+    "xg": 1.41
+  },
+  {
+    "minute": 57,
+    "dangerous_attacks": 27,
+    "total_attacks": 40,
+    "possession.home": 64,
+    "possession.away": 36,
+    "shots.onTarget": 6,
+    "shots.total": 13,
+    "xg": 1.52
+  },
+  {
+    "minute": 58,
+    "dangerous_attacks": 30,
+    "total_attacks": 44,
+    "possession.home": 65,
+    "possession.away": 35,
+    "shots.onTarget": 7,
+    "shots.total": 14,
+    "xg": 1.71
+  },
+  {
+    "minute": 59,
+    "dangerous_attacks": 34,
+    "total_attacks": 48,
+    "possession.home": 66,
+    "possession.away": 34,
+    "shots.onTarget": 8,
+    "shots.total": 15,
+    "xg": 1.95
+  }
+]
